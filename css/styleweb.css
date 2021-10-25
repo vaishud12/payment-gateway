@@ -4,7 +4,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: linear-gradient(rgba(170, 157, 157, 0.6),rgb(0,0,0,0.7)),url('images/mad-banner.jpg');
+    background: linear-gradient(rgba(170, 157, 157, 0.6),rgb(0,0,0,0.7)),url("../images/mad-banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
